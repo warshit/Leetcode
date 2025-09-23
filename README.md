@@ -36,6 +36,7 @@
 | [0260-single-number-iii](https://github.com/warshit/Leetcode/tree/master/0260-single-number-iii) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/warshit/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/warshit/Leetcode/tree/master/0898-transpose-matrix) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/warshit/Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/warshit/Leetcode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [2047-find-a-peak-element-ii](https://github.com/warshit/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 ## Two Pointers
@@ -48,6 +49,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/warshit/Leetcode/tree/master/0016-3sum-closest) |
 | [0164-maximum-gap](https://github.com/warshit/Leetcode/tree/master/0164-maximum-gap) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/warshit/Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -74,4 +76,9 @@
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/warshit/Leetcode/tree/master/0898-transpose-matrix) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/warshit/Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
+## Queue
+|  |
+| ------- |
+| [0987-reveal-cards-in-increasing-order](https://github.com/warshit/Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 <!---LeetCode Topics End-->
