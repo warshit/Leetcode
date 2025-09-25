@@ -34,6 +34,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/warshit/Leetcode/tree/master/0016-3sum-closest) |
 | [0078-subsets](https://github.com/warshit/Leetcode/tree/master/0078-subsets) |
+| [0120-triangle](https://github.com/warshit/Leetcode/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/warshit/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/warshit/Leetcode/tree/master/0137-single-number-ii) |
 | [0164-maximum-gap](https://github.com/warshit/Leetcode/tree/master/0164-maximum-gap) |
@@ -100,4 +101,8 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/warshit/Leetcode/tree/master/0078-subsets) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0120-triangle](https://github.com/warshit/Leetcode/tree/master/0120-triangle) |
 <!---LeetCode Topics End-->
