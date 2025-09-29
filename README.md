@@ -5,11 +5,13 @@
 ## Hash Table
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/warshit/Leetcode/tree/master/0383-ransom-note) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/warshit/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 ## String
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/warshit/Leetcode/tree/master/0224-basic-calculator) |
+| [0383-ransom-note](https://github.com/warshit/Leetcode/tree/master/0383-ransom-note) |
 | [1197-parsing-a-boolean-expression](https://github.com/warshit/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/warshit/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 ## Math
@@ -113,4 +115,8 @@
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/warshit/Leetcode/tree/master/0611-valid-triangle-number) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/warshit/Leetcode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
