@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/warshit/Leetcode/tree/master/0016-3sum-closest) |
+| [0053-maximum-subarray](https://github.com/warshit/Leetcode/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/warshit/Leetcode/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/warshit/Leetcode/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/warshit/Leetcode/tree/master/0136-single-number) |
@@ -110,6 +111,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/warshit/Leetcode/tree/master/0053-maximum-subarray) |
 | [0120-triangle](https://github.com/warshit/Leetcode/tree/master/0120-triangle) |
 ## Greedy
 |  |
@@ -119,4 +121,8 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/warshit/Leetcode/tree/master/0383-ransom-note) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/warshit/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
