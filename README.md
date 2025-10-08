@@ -59,6 +59,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/warshit/Leetcode/tree/master/0016-3sum-closest) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/warshit/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/warshit/Leetcode/tree/master/0061-rotate-list) |
 | [0189-rotate-array](https://github.com/warshit/Leetcode/tree/master/0189-rotate-array) |
 | [0611-valid-triangle-number](https://github.com/warshit/Leetcode/tree/master/0611-valid-triangle-number) |
@@ -134,6 +135,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/warshit/Leetcode/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/warshit/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/warshit/Leetcode/tree/master/0061-rotate-list) |
 | [0203-remove-linked-list-elements](https://github.com/warshit/Leetcode/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
