@@ -32,6 +32,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/warshit/Leetcode/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/warshit/Leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/warshit/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/warshit/Leetcode/tree/master/0224-basic-calculator) |
 | [1197-parsing-a-boolean-expression](https://github.com/warshit/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/warshit/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -138,4 +139,5 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/warshit/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/warshit/Leetcode/tree/master/0061-rotate-list) |
 | [0203-remove-linked-list-elements](https://github.com/warshit/Leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/warshit/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
