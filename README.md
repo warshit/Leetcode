@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/warshit/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0067-add-binary](https://github.com/warshit/Leetcode/tree/master/0067-add-binary) |
 | [0224-basic-calculator](https://github.com/warshit/Leetcode/tree/master/0224-basic-calculator) |
 | [0383-ransom-note](https://github.com/warshit/Leetcode/tree/master/0383-ransom-note) |
 | [1197-parsing-a-boolean-expression](https://github.com/warshit/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
@@ -20,6 +21,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/warshit/Leetcode/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/warshit/Leetcode/tree/master/0067-add-binary) |
 | [0172-factorial-trailing-zeroes](https://github.com/warshit/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/warshit/Leetcode/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/warshit/Leetcode/tree/master/0224-basic-calculator) |
@@ -84,6 +86,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/warshit/Leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/warshit/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/warshit/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/warshit/Leetcode/tree/master/0137-single-number-ii) |
@@ -103,6 +106,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/warshit/Leetcode/tree/master/0067-add-binary) |
 | [0898-transpose-matrix](https://github.com/warshit/Leetcode/tree/master/0898-transpose-matrix) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/warshit/Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/warshit/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
