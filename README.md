@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/warshit/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0043-multiply-strings](https://github.com/warshit/Leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/warshit/Leetcode/tree/master/0067-add-binary) |
 | [0224-basic-calculator](https://github.com/warshit/Leetcode/tree/master/0224-basic-calculator) |
 | [0383-ransom-note](https://github.com/warshit/Leetcode/tree/master/0383-ransom-note) |
@@ -21,6 +22,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/warshit/Leetcode/tree/master/0002-add-two-numbers) |
+| [0043-multiply-strings](https://github.com/warshit/Leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/warshit/Leetcode/tree/master/0067-add-binary) |
 | [0172-factorial-trailing-zeroes](https://github.com/warshit/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/warshit/Leetcode/tree/master/0189-rotate-array) |
@@ -106,6 +108,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/warshit/Leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/warshit/Leetcode/tree/master/0067-add-binary) |
 | [0898-transpose-matrix](https://github.com/warshit/Leetcode/tree/master/0898-transpose-matrix) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/warshit/Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
