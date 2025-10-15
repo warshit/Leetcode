@@ -14,7 +14,7 @@ public class Solution {
         ListNode f= head;
         ListNode s= head;
         int c=0;
-        while(f!=null&&f.next!=null){
+        while(f.next!=null&&f!=null){
             f=f.next.next;
             s=s.next;
                 c++;
