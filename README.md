@@ -67,6 +67,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/warshit/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2047-find-a-peak-element-ii](https://github.com/warshit/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2195-time-needed-to-buy-tickets](https://github.com/warshit/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/warshit/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -110,6 +111,7 @@
 | [0611-valid-triangle-number](https://github.com/warshit/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/warshit/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2047-find-a-peak-element-ii](https://github.com/warshit/Leetcode/tree/master/2047-find-a-peak-element-ii) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/warshit/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Matrix
 |  |
 | ------- |
