@@ -70,6 +70,7 @@
 | [2047-find-a-peak-element-ii](https://github.com/warshit/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2195-time-needed-to-buy-tickets](https://github.com/warshit/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/warshit/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/warshit/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -91,6 +92,7 @@
 | [0164-maximum-gap](https://github.com/warshit/Leetcode/tree/master/0164-maximum-gap) |
 | [0611-valid-triangle-number](https://github.com/warshit/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/warshit/Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/warshit/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -151,6 +153,7 @@
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/warshit/Leetcode/tree/master/0611-valid-triangle-number) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/warshit/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Counting
 |  |
 | ------- |
