@@ -34,6 +34,7 @@
 | [0224-basic-calculator](https://github.com/warshit/Leetcode/tree/master/0224-basic-calculator) |
 | [0445-add-two-numbers-ii](https://github.com/warshit/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/warshit/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/warshit/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/warshit/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Stack
 |  |
@@ -122,6 +123,7 @@
 | [0260-single-number-iii](https://github.com/warshit/Leetcode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/warshit/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/warshit/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/warshit/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Binary Search
 |  |
 | ------- |
