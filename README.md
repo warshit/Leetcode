@@ -76,6 +76,7 @@
 | [0898-transpose-matrix](https://github.com/warshit/Leetcode/tree/master/0898-transpose-matrix) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/warshit/Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/warshit/Leetcode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
+| [1929-concatenation-of-array](https://github.com/warshit/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/warshit/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2047-find-a-peak-element-ii](https://github.com/warshit/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2195-time-needed-to-buy-tickets](https://github.com/warshit/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
@@ -147,6 +148,7 @@
 | [0067-add-binary](https://github.com/warshit/Leetcode/tree/master/0067-add-binary) |
 | [0898-transpose-matrix](https://github.com/warshit/Leetcode/tree/master/0898-transpose-matrix) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/warshit/Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1929-concatenation-of-array](https://github.com/warshit/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/warshit/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2195-time-needed-to-buy-tickets](https://github.com/warshit/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/warshit/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
