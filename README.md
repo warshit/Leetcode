@@ -94,6 +94,7 @@
 | [0086-partition-list](https://github.com/warshit/Leetcode/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/warshit/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/warshit/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/warshit/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/warshit/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/warshit/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/warshit/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -106,6 +107,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/warshit/Leetcode/tree/master/0016-3sum-closest) |
+| [0148-sort-list](https://github.com/warshit/Leetcode/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/warshit/Leetcode/tree/master/0164-maximum-gap) |
 | [0611-valid-triangle-number](https://github.com/warshit/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/warshit/Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
@@ -185,6 +187,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/warshit/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/warshit/Leetcode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/warshit/Leetcode/tree/master/0148-sort-list) |
 ## Linked List
 |  |
 | ------- |
@@ -201,6 +204,7 @@
 | [0092-reverse-linked-list-ii](https://github.com/warshit/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/warshit/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/warshit/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/warshit/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/warshit/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/warshit/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/warshit/Leetcode/tree/master/0206-reverse-linked-list) |
@@ -227,6 +231,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/warshit/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/warshit/Leetcode/tree/master/0148-sort-list) |
 ## Combinatorics
 |  |
 | ------- |
