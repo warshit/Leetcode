@@ -12,6 +12,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/warshit/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0383-ransom-note](https://github.com/warshit/Leetcode/tree/master/0383-ransom-note) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/warshit/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/warshit/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/warshit/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## String
 |  |
@@ -80,6 +81,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/warshit/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/warshit/Leetcode/tree/master/0898-transpose-matrix) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/warshit/Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/warshit/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/warshit/Leetcode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1929-concatenation-of-array](https://github.com/warshit/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/warshit/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -117,6 +119,7 @@
 | [0164-maximum-gap](https://github.com/warshit/Leetcode/tree/master/0164-maximum-gap) |
 | [0611-valid-triangle-number](https://github.com/warshit/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/warshit/Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/warshit/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/warshit/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Bucket Sort
 |  |
@@ -253,4 +256,8 @@
 |  |
 | ------- |
 | [3616-make-array-elements-equal-to-zero](https://github.com/warshit/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/warshit/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
