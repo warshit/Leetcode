@@ -11,6 +11,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/warshit/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/warshit/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0383-ransom-note](https://github.com/warshit/Leetcode/tree/master/0383-ransom-note) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/warshit/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/warshit/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/warshit/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/warshit/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -80,6 +81,7 @@
 | [0611-valid-triangle-number](https://github.com/warshit/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/warshit/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/warshit/Leetcode/tree/master/0898-transpose-matrix) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/warshit/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/warshit/Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/warshit/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/warshit/Leetcode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
