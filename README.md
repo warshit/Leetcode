@@ -95,6 +95,7 @@
 | [1975-maximum-matrix-sum](https://github.com/warshit/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2047-find-a-peak-element-ii](https://github.com/warshit/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2195-time-needed-to-buy-tickets](https://github.com/warshit/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/warshit/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/warshit/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/warshit/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/warshit/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -147,6 +148,7 @@
 | [0260-single-number-iii](https://github.com/warshit/Leetcode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/warshit/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/warshit/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/warshit/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/warshit/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Binary Search
 |  |
