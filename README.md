@@ -9,6 +9,7 @@
 | [0073-set-matrix-zeroes](https://github.com/warshit/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/warshit/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/warshit/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/warshit/Leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/warshit/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0383-ransom-note](https://github.com/warshit/Leetcode/tree/master/0383-ransom-note) |
 | [0525-contiguous-array](https://github.com/warshit/Leetcode/tree/master/0525-contiguous-array) |
@@ -251,6 +252,7 @@
 | [0141-linked-list-cycle](https://github.com/warshit/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/warshit/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/warshit/Leetcode/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/warshit/Leetcode/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/warshit/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/warshit/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/warshit/Leetcode/tree/master/0203-remove-linked-list-elements) |
@@ -316,4 +318,12 @@
 |  |
 | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/warshit/Leetcode/tree/master/3713-longest-balanced-substring-i) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/warshit/Leetcode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/warshit/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
