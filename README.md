@@ -30,6 +30,7 @@
 | [0224-basic-calculator](https://github.com/warshit/Leetcode/tree/master/0224-basic-calculator) |
 | [0383-ransom-note](https://github.com/warshit/Leetcode/tree/master/0383-ransom-note) |
 | [0394-decode-string](https://github.com/warshit/Leetcode/tree/master/0394-decode-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/warshit/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/warshit/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/warshit/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3713-longest-balanced-substring-i](https://github.com/warshit/Leetcode/tree/master/3713-longest-balanced-substring-i) |
@@ -60,6 +61,7 @@
 | [0394-decode-string](https://github.com/warshit/Leetcode/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/warshit/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/warshit/Leetcode/tree/master/0496-next-greater-element-i) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/warshit/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/warshit/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 ## Recursion
 |  |
