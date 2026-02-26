@@ -12,6 +12,7 @@
 | [0146-lru-cache](https://github.com/warshit/Leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/warshit/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0383-ransom-note](https://github.com/warshit/Leetcode/tree/master/0383-ransom-note) |
+| [0496-next-greater-element-i](https://github.com/warshit/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/warshit/Leetcode/tree/master/0525-contiguous-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/warshit/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/warshit/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -58,6 +59,7 @@
 | [0234-palindrome-linked-list](https://github.com/warshit/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/warshit/Leetcode/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/warshit/Leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0496-next-greater-element-i](https://github.com/warshit/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1197-parsing-a-boolean-expression](https://github.com/warshit/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 ## Recursion
 |  |
@@ -92,6 +94,7 @@
 | [0198-house-robber](https://github.com/warshit/Leetcode/tree/master/0198-house-robber) |
 | [0260-single-number-iii](https://github.com/warshit/Leetcode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/warshit/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0496-next-greater-element-i](https://github.com/warshit/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/warshit/Leetcode/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/warshit/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/warshit/Leetcode/tree/master/0611-valid-triangle-number) |
@@ -332,4 +335,8 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/warshit/Leetcode/tree/master/0146-lru-cache) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/warshit/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
