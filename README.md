@@ -11,6 +11,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/warshit/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/warshit/Leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/warshit/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0268-missing-number](https://github.com/warshit/Leetcode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/warshit/Leetcode/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/warshit/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/warshit/Leetcode/tree/master/0525-contiguous-array) |
@@ -45,6 +46,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/warshit/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/warshit/Leetcode/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/warshit/Leetcode/tree/master/0224-basic-calculator) |
+| [0268-missing-number](https://github.com/warshit/Leetcode/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/warshit/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [1390-four-divisors](https://github.com/warshit/Leetcode/tree/master/1390-four-divisors) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/warshit/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -98,6 +100,7 @@
 | [0189-rotate-array](https://github.com/warshit/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/warshit/Leetcode/tree/master/0198-house-robber) |
 | [0260-single-number-iii](https://github.com/warshit/Leetcode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/warshit/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/warshit/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/warshit/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/warshit/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -157,6 +160,7 @@
 | [0018-4sum](https://github.com/warshit/Leetcode/tree/master/0018-4sum) |
 | [0148-sort-list](https://github.com/warshit/Leetcode/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/warshit/Leetcode/tree/master/0164-maximum-gap) |
+| [0268-missing-number](https://github.com/warshit/Leetcode/tree/master/0268-missing-number) |
 | [0611-valid-triangle-number](https://github.com/warshit/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/warshit/Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/warshit/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -179,6 +183,7 @@
 | [0136-single-number](https://github.com/warshit/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/warshit/Leetcode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/warshit/Leetcode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/warshit/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/warshit/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/warshit/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/warshit/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -187,6 +192,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/warshit/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/warshit/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/warshit/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/warshit/Leetcode/tree/master/0611-valid-triangle-number) |
