@@ -29,6 +29,7 @@
 | [0008-string-to-integer-atoi](https://github.com/warshit/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/warshit/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/warshit/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/warshit/Leetcode/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/warshit/Leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/warshit/Leetcode/tree/master/0067-add-binary) |
 | [0224-basic-calculator](https://github.com/warshit/Leetcode/tree/master/0224-basic-calculator) |
@@ -235,10 +236,12 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/warshit/Leetcode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/warshit/Leetcode/tree/master/0078-subsets) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/warshit/Leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/warshit/Leetcode/tree/master/0053-maximum-subarray) |
 | [0120-triangle](https://github.com/warshit/Leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/warshit/Leetcode/tree/master/0198-house-robber) |
