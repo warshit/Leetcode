@@ -27,6 +27,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/warshit/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/warshit/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/warshit/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/warshit/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/warshit/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/warshit/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/warshit/Leetcode/tree/master/0022-generate-parentheses) |
@@ -78,6 +79,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/warshit/Leetcode/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/warshit/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/warshit/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/warshit/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/warshit/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
@@ -247,6 +249,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/warshit/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/warshit/Leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/warshit/Leetcode/tree/master/0053-maximum-subarray) |
 | [0120-triangle](https://github.com/warshit/Leetcode/tree/master/0120-triangle) |
