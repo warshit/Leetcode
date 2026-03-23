@@ -125,6 +125,7 @@
 | [1390-four-divisors](https://github.com/warshit/Leetcode/tree/master/1390-four-divisors) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/warshit/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/warshit/Leetcode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/warshit/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/warshit/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/warshit/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1929-concatenation-of-array](https://github.com/warshit/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -214,6 +215,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/warshit/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0898-transpose-matrix](https://github.com/warshit/Leetcode/tree/master/0898-transpose-matrix) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/warshit/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/warshit/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1975-maximum-matrix-sum](https://github.com/warshit/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2047-find-a-peak-element-ii](https://github.com/warshit/Leetcode/tree/master/2047-find-a-peak-element-ii) |
@@ -249,6 +251,7 @@
 | [0053-maximum-subarray](https://github.com/warshit/Leetcode/tree/master/0053-maximum-subarray) |
 | [0120-triangle](https://github.com/warshit/Leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/warshit/Leetcode/tree/master/0198-house-robber) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/warshit/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 ## Greedy
 |  |
 | ------- |
