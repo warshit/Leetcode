@@ -1,42 +1,36 @@
 class Solution {
-    public int[][] constructProductMatrix(int[][] grid) {
-         int MOD = 12345;
-        int n = grid.length, m = grid[0].length;
-        int size = n * m;
-
-        long[] arr = new long[size];
-        int idx = 0;
-        for (int[] row : grid) {
-            for (int val : row) {
-                arr[idx++] = val % MOD;
+    public int[][] constructProductMatrix(int[][] g) {
+          int m= g.length;
+        int n =g[0].length;
+        int size =m*n;
+        int mod =12345;
+        int a[] =new int[size];
+        long p[]= new long[size];
+        long s[]= new long[size];
+        p[0]= g[0][0];
+        int idx=0;
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                a[idx++] =g[i][j];
             }
         }
-
-        long[] prefix = new long[size];
-        prefix[0] = arr[0];
-        for (int i = 1; i < size; i++) {
-            prefix[i] = (prefix[i - 1] * arr[i]) % MOD;
+        p[0] =1;
+        for(int i=1;i<p.length;i++){
+            p[i] =(p[i-1]*a[i-1])%mod;
         }
-
-        long[] suffix = new long[size];
-        suffix[size - 1] = arr[size - 1];
-        for (int i = size - 2; i >= 0; i--) {
-            suffix[i] = (suffix[i + 1] * arr[i]) % MOD;
+        s[s.length-1]= 1;
+        for(int i=a.length-2;i>=0;i--){
+            s[i]= (a[i+1]*s[i+1])%mod;
         }
-
-        // Build result
-        int[][] result = new int[n][m];
-        idx = 0;
-
-        for (int i = 0; i < size; i++) {
-            long left = (i == 0) ? 1 : prefix[i - 1];
-            long right = (i == size - 1) ? 1 : suffix[i + 1];
-            long val = (left * right) % MOD;
-
-            result[idx / m][idx % m] = (int) val;
-            idx++;
+        idx=0;
+        
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                g[i][j]=(int)(p[idx]*s[idx])%mod;
+                idx++;
+            }
         }
-
-        return result;
+        return g;
+        
     }
 }
