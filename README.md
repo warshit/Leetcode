@@ -146,6 +146,7 @@
 | [3616-make-array-elements-equal-to-zero](https://github.com/warshit/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/warshit/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/warshit/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/warshit/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Two Pointers
 |  |
 | ------- |
@@ -185,6 +186,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/warshit/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2751-robot-collisions](https://github.com/warshit/Leetcode/tree/master/2751-robot-collisions) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/warshit/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/warshit/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -220,6 +222,7 @@
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/warshit/Leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2047-find-a-peak-element-ii](https://github.com/warshit/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/warshit/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/warshit/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Matrix
 |  |
 | ------- |
@@ -266,6 +269,7 @@
 | [0120-triangle](https://github.com/warshit/Leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/warshit/Leetcode/tree/master/0198-house-robber) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/warshit/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/warshit/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Greedy
 |  |
 | ------- |
