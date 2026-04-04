@@ -40,6 +40,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/warshit/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/warshit/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/warshit/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/warshit/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [3713-longest-balanced-substring-i](https://github.com/warshit/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/warshit/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Math
@@ -244,6 +245,7 @@
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/warshit/Leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1929-concatenation-of-array](https://github.com/warshit/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/warshit/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/warshit/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2195-time-needed-to-buy-tickets](https://github.com/warshit/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/warshit/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2751-robot-collisions](https://github.com/warshit/Leetcode/tree/master/2751-robot-collisions) |
