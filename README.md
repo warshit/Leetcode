@@ -115,6 +115,7 @@
 | [0260-single-number-iii](https://github.com/warshit/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/warshit/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/warshit/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0455-assign-cookies](https://github.com/warshit/Leetcode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/warshit/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/warshit/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/warshit/Leetcode/tree/master/0525-contiguous-array) |
@@ -167,6 +168,7 @@
 | [0189-rotate-array](https://github.com/warshit/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/warshit/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/warshit/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0455-assign-cookies](https://github.com/warshit/Leetcode/tree/master/0455-assign-cookies) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/warshit/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0611-valid-triangle-number](https://github.com/warshit/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0908-middle-of-the-linked-list](https://github.com/warshit/Leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -180,6 +182,7 @@
 | [0148-sort-list](https://github.com/warshit/Leetcode/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/warshit/Leetcode/tree/master/0164-maximum-gap) |
 | [0268-missing-number](https://github.com/warshit/Leetcode/tree/master/0268-missing-number) |
+| [0455-assign-cookies](https://github.com/warshit/Leetcode/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/warshit/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/warshit/Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/warshit/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -279,6 +282,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/warshit/Leetcode/tree/master/0011-container-with-most-water) |
+| [0455-assign-cookies](https://github.com/warshit/Leetcode/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/warshit/Leetcode/tree/master/0611-valid-triangle-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/warshit/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/warshit/Leetcode/tree/master/1975-maximum-matrix-sum) |
