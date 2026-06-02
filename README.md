@@ -5,6 +5,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/warshit/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/warshit/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/warshit/Leetcode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/warshit/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -98,6 +99,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/warshit/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/warshit/Leetcode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/warshit/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/warshit/Leetcode/tree/master/0018-4sum) |
