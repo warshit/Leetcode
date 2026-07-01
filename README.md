@@ -145,6 +145,7 @@
 | [2047-find-a-peak-element-ii](https://github.com/warshit/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2195-time-needed-to-buy-tickets](https://github.com/warshit/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2751-robot-collisions](https://github.com/warshit/Leetcode/tree/master/2751-robot-collisions) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/warshit/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/warshit/Leetcode/tree/master/2906-construct-product-matrix) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/warshit/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/warshit/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -228,6 +229,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/warshit/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/warshit/Leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2047-find-a-peak-element-ii](https://github.com/warshit/Leetcode/tree/master/2047-find-a-peak-element-ii) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/warshit/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/warshit/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/warshit/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Matrix
@@ -239,6 +241,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/warshit/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1975-maximum-matrix-sum](https://github.com/warshit/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2047-find-a-peak-element-ii](https://github.com/warshit/Leetcode/tree/master/2047-find-a-peak-element-ii) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/warshit/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/warshit/Leetcode/tree/master/2906-construct-product-matrix) |
 ## Simulation
 |  |
@@ -343,6 +346,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/warshit/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/warshit/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/warshit/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/warshit/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Merge Sort
 |  |
@@ -381,6 +385,7 @@
 |  |
 | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/warshit/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/warshit/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -404,4 +409,8 @@
 | [0496-next-greater-element-i](https://github.com/warshit/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/warshit/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/warshit/Leetcode/tree/master/0739-daily-temperatures) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/warshit/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
