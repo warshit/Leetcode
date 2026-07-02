@@ -104,6 +104,7 @@
 | [0016-3sum-closest](https://github.com/warshit/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/warshit/Leetcode/tree/master/0018-4sum) |
 | [0053-maximum-subarray](https://github.com/warshit/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/warshit/Leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/warshit/Leetcode/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/warshit/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/warshit/Leetcode/tree/master/0078-subsets) |
@@ -279,6 +280,7 @@
 | [0010-regular-expression-matching](https://github.com/warshit/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/warshit/Leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/warshit/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/warshit/Leetcode/tree/master/0055-jump-game) |
 | [0120-triangle](https://github.com/warshit/Leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/warshit/Leetcode/tree/master/0198-house-robber) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/warshit/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -287,6 +289,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/warshit/Leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/warshit/Leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/warshit/Leetcode/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/warshit/Leetcode/tree/master/0611-valid-triangle-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/warshit/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
