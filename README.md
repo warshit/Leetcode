@@ -132,6 +132,7 @@
 | [0987-reveal-cards-in-increasing-order](https://github.com/warshit/Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/warshit/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1288-remove-covered-intervals](https://github.com/warshit/Leetcode/tree/master/1288-remove-covered-intervals) |
+| [1301-number-of-paths-with-max-score](https://github.com/warshit/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/warshit/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/warshit/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1390-four-divisors](https://github.com/warshit/Leetcode/tree/master/1390-four-divisors) |
@@ -240,6 +241,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/warshit/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0898-transpose-matrix](https://github.com/warshit/Leetcode/tree/master/0898-transpose-matrix) |
+| [1301-number-of-paths-with-max-score](https://github.com/warshit/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/warshit/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/warshit/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1975-maximum-matrix-sum](https://github.com/warshit/Leetcode/tree/master/1975-maximum-matrix-sum) |
@@ -285,6 +287,7 @@
 | [0055-jump-game](https://github.com/warshit/Leetcode/tree/master/0055-jump-game) |
 | [0120-triangle](https://github.com/warshit/Leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/warshit/Leetcode/tree/master/0198-house-robber) |
+| [1301-number-of-paths-with-max-score](https://github.com/warshit/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/warshit/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/warshit/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Greedy
