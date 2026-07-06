@@ -131,6 +131,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/warshit/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/warshit/Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/warshit/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1288-remove-covered-intervals](https://github.com/warshit/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/warshit/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/warshit/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1390-four-divisors](https://github.com/warshit/Leetcode/tree/master/1390-four-divisors) |
@@ -189,6 +190,7 @@
 | [0455-assign-cookies](https://github.com/warshit/Leetcode/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/warshit/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/warshit/Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1288-remove-covered-intervals](https://github.com/warshit/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/warshit/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/warshit/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/warshit/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
