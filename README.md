@@ -154,6 +154,7 @@
 | [2906-construct-product-matrix](https://github.com/warshit/Leetcode/tree/master/2906-construct-product-matrix) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/warshit/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/warshit/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/warshit/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/warshit/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/warshit/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/warshit/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -183,6 +184,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/warshit/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/warshit/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/warshit/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/warshit/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -200,6 +202,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/warshit/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/warshit/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2751-robot-collisions](https://github.com/warshit/Leetcode/tree/master/2751-robot-collisions) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/warshit/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/warshit/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/warshit/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Bucket Sort
@@ -223,6 +226,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/warshit/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/warshit/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/warshit/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/warshit/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/warshit/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Binary Search
 |  |
@@ -238,6 +242,7 @@
 | [2047-find-a-peak-element-ii](https://github.com/warshit/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/warshit/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/warshit/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/warshit/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/warshit/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/warshit/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Matrix
@@ -293,6 +298,7 @@
 | [0198-house-robber](https://github.com/warshit/Leetcode/tree/master/0198-house-robber) |
 | [1301-number-of-paths-with-max-score](https://github.com/warshit/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/warshit/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/warshit/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/warshit/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Greedy
 |  |
@@ -303,6 +309,7 @@
 | [0611-valid-triangle-number](https://github.com/warshit/Leetcode/tree/master/0611-valid-triangle-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/warshit/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/warshit/Leetcode/tree/master/1975-maximum-matrix-sum) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/warshit/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/warshit/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Counting
 |  |
@@ -434,4 +441,5 @@
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/warshit/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/warshit/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/warshit/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
