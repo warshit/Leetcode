@@ -62,6 +62,7 @@
 | [1390-four-divisors](https://github.com/warshit/Leetcode/tree/master/1390-four-divisors) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/warshit/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/warshit/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/warshit/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/warshit/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/warshit/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/warshit/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -379,6 +380,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/warshit/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/warshit/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Prefix Sum
 |  |
