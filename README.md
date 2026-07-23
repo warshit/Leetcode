@@ -67,6 +67,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/warshit/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/warshit/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/warshit/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/warshit/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/warshit/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/warshit/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/warshit/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -164,6 +165,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/warshit/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/warshit/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/warshit/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/warshit/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/warshit/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/warshit/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/warshit/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -237,6 +239,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/warshit/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/warshit/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/warshit/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/warshit/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/warshit/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/warshit/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Binary Search
